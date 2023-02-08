@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3qE5KbJsMwAEhuIJ8EbcjOHPY4njdoyfKq/k1iCvRY1UzcOHG1rog+zrj0zZNhzbiniqgy74AvlybujdWRZ2iA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Antoine.MASSIP.ext\\source\\repos\\DI\\DependancyInjection\\DI.Extended\\DI.Extended.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antoine.MASSIP.ext\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

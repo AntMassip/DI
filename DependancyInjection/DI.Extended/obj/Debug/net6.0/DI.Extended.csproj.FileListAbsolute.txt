@@ -1,0 +1,15 @@
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\bin\Debug\net6.0\DI.Extended.exe
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\bin\Debug\net6.0\DI.Extended.deps.json
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\bin\Debug\net6.0\DI.Extended.runtimeconfig.json
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\bin\Debug\net6.0\DI.Extended.dll
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\bin\Debug\net6.0\DI.Extended.pdb
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\obj\Debug\net6.0\DI.Extended.csproj.AssemblyReference.cache
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\obj\Debug\net6.0\DI.Extended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\obj\Debug\net6.0\DI.Extended.AssemblyInfoInputs.cache
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\obj\Debug\net6.0\DI.Extended.AssemblyInfo.cs
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\obj\Debug\net6.0\DI.Extended.csproj.CoreCompileInputs.cache
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\obj\Debug\net6.0\DI.Extended.dll
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\obj\Debug\net6.0\refint\DI.Extended.dll
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\obj\Debug\net6.0\DI.Extended.pdb
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\obj\Debug\net6.0\DI.Extended.genruntimeconfig.cache
+C:\Users\Antoine.MASSIP.ext\source\repos\DI\DependancyInjection\DI.Extended\obj\Debug\net6.0\ref\DI.Extended.dll
